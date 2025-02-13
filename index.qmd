@@ -1,6 +1,6 @@
 ---
 title: "Compilation of Machine Learning Reports"
-subtitle: "Supporting information of Montero-Tena et al 2025, *Uncovering the rules governing recombination positioning in oilseed rape using multi-omics data and machine learning*"
+subtitle: "Supporting information of Montero-Tena et al 2025, *CpG methylation, gene count and telomeric proximity are the main predictors of meiotic crossovers in rapeseed*"
 author: Jose A Montero-Tena
 date: "`r Sys.Date()`"
 format:
