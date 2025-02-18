@@ -32,7 +32,7 @@ find_first_match = function(pattern, files) {
 }
 ```
 
-* [Statistical analysis of features:](preprocessing/preprocessing.html) Histograms, Student's *t*-test, hierarchical clustering, Pearson's rank correlation, etc.
+* [Statistical analysis of features](preprocessing/preprocessing.html), including histograms of target and feature distribution, Student's *t*-test, hierarchical clustering, Pearson's rank correlation.
 
 * Machine learning models for classification:
 
